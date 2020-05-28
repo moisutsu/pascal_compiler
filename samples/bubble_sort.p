@@ -1,4 +1,4 @@
-program BUBBLE_SORT;
+program BUBBLESORT;
 var i, j, n, a[1..100];
 procedure initialize(n);
 var i;

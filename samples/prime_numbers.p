@@ -1,4 +1,4 @@
-program PRIME_NUMBERS;
+program PRIMENUMBERS;
 var a[2..100],i,n;
 procedure initialize;
 var i;
