@@ -1,1 +1,6 @@
 .bash_history
+result.ll
+parser
+lex.yy.c
+y.tab.c
+y.tab.h
