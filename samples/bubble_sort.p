@@ -1,4 +1,4 @@
-program PL3A;
+program BUBBLE_SORT;
 var i, j, n, a[1..100];
 procedure initialize(n);
 var i;
