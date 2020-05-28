@@ -1,0 +1,10 @@
+version: "3"
+services:
+    compiler:
+        image: moisutsu/pascal_compiler
+        working_dir: /work
+        tty: true
+        volumes:
+            - ./:/work
+        environment:
+            - HOME=/work
