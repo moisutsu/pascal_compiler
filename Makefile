@@ -13,6 +13,7 @@ y.tab.c: parser.y
 clean:
 	rm -f *.c parser y.tab.h result.ll
 
+.PHONY: compile
 compile: parser
 	./parser samples/${FILE}
 
