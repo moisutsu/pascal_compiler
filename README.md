@@ -3,9 +3,9 @@
 C言語によるPascal風言語のコンパイラの実装
 
 ## 使用技術
-- llvm
-- yacc
-- lex
+- LLVM
+- Yacc
+- Lex
 
 ## 実行方法
 
